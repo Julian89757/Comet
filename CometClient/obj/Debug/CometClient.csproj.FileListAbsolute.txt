@@ -1,0 +1,36 @@
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\obj\Debug\CometClient.CometClientFrm.resources
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\obj\Debug\CometClient.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\obj\Debug\CometClient.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\bin\Debug\CometClient.exe.config
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\bin\Debug\CometClient.exe
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\bin\Debug\CometClient.pdb
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\obj\Debug\CometClient.exe
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\obj\Debug\CometClient.pdb
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2013\Projects\CometPushServer\CometClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\bin\Debug\CometClient.exe.config
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\obj\Debug\CometClient.exe
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\obj\Debug\CometClient.pdb
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\bin\Debug\CometClient.exe
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\bin\Debug\CometClient.pdb
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\obj\Debug\CometClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\obj\Debug\CometClient.CometClientFrm.resources
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\obj\Debug\CometClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CometPushServer\CometClient\obj\Debug\CometClient.csproj.GenerateResource.Cache
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\bin\Debug\CometClient.exe.config
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\bin\Debug\CometClient.exe
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\bin\Debug\CometClient.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\bin\Debug\ChatData.dll
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\bin\Debug\ChatData.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\obj\Debug\CometClient.csprojResolveAssemblyReference.cache
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\obj\Debug\CometClient.CometClientFrm.resources
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\obj\Debug\CometClient.IndexFrm.resources
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\obj\Debug\CometClient.Properties.Resources.resources
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\obj\Debug\CometClient.csproj.GenerateResource.Cache
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\obj\Debug\CometClient.exe
+C:\Users\smart.huang\Source\Repos\CometServer\CometClient\obj\Debug\CometClient.pdb

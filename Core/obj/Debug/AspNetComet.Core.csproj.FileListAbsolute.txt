@@ -1,0 +1,6 @@
+C:\Users\smart.huang\Source\Repos\CometServer\Core\bin\Debug\AspNetComet.Core.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Core\bin\Debug\AspNetComet.Core.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smart.huang\Source\Repos\CometServer\Core\obj\Debug\AspNetComet.Core.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Core\obj\Debug\AspNetComet.Core.pdb

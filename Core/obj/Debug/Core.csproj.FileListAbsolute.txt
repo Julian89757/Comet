@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\AspNetComet\Core\bin\Debug\MethodWorx.AspNetComet.Core.dll
+C:\Users\Administrator\Desktop\AspNetComet\Core\bin\Debug\MethodWorx.AspNetComet.Core.pdb
+C:\Users\Administrator\Desktop\AspNetComet\Core\obj\Debug\MethodWorx.AspNetComet.Core.dll
+C:\Users\Administrator\Desktop\AspNetComet\Core\obj\Debug\MethodWorx.AspNetComet.Core.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Core\bin\Debug\MethodWorx.AspNetComet.Core.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Core\bin\Debug\MethodWorx.AspNetComet.Core.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smart.huang\Source\Repos\CometServer\Core\obj\Debug\MethodWorx.AspNetComet.Core.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Core\obj\Debug\MethodWorx.AspNetComet.Core.pdb

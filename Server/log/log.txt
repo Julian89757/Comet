@@ -1,0 +1,27 @@
+2015/6/29 14:44:49
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):Column name or number of supplied values does not match table definition./nsql=insert into UserInfo values(@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@IsValid )
+
+2015/6/29 14:48:59
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM./nsql=insert into UserInfo values(@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@IsValid )
+
+2015/6/29 15:03:43
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM./nsql=insert into UserInfo values(@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@OnlineTime,@OfflineTime,@IsValid )
+
+2015/6/29 15:06:13
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):The parameterized query '(@UserId uniqueidentifier,@UserName nvarchar(2),@NikeName nvarch' expects the parameter '@OnlineTime', which was not supplied./nsql=insert into UserInfo values(@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@OnlineTime,@OfflineTime,@IsValid )
+
+2015/6/29 15:06:56
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):The parameterized query '(@UserId uniqueidentifier,@UserName nvarchar(2),@NikeName nvarch' expects the parameter '@OnlineTime', which was not supplied./nsql=insert into UserInfo values(@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@OnlineTime,@OfflineTime,@IsValid )
+
+2015/6/29 15:09:00
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):The parameterized query '(@UserId uniqueidentifier,@UserName nvarchar(2),@NikeName nvarch' expects the parameter '@OnlineTime', which was not supplied./nsql=insert into UserInfo values(@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@OnlineTime,@OfflineTime,@IsValid )
+
+2015/6/29 15:10:07
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):The parameterized query '(@UserId uniqueidentifier,@UserName nvarchar(2),@NikeName nvarch' expects the parameter '@OnlineTime', which was not supplied./nsql=insert into UserInfo values(@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@OnlineTime,@OfflineTime,@IsValid )
+
+2015/6/29 15:11:07
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):The parameterized query '(@UserId uniqueidentifier,@UserName nvarchar(2),@NikeName nvarch' expects the parameter '@OnlineTime', which was not supplied./nsql=insert into UserInfo values(@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@OnlineTime,@OfflineTime,@IsValid )
+
+2015/6/29 15:32:47
+Dbhelper.Execute(string sql, System.Data.Common.DbConnection Conn, System.Data.Common.DbParameter[] param):Incorrect syntax near '@UserId'./nsql=insert into UserInfo values  ([UserId],[UserName],[NikeName],[PassWord],[Sex],[BirthDay],[Phone],[Email],[Status],[IsValid]) (@UserId,@UserName,@NikeName,@PassWord,@Sex,@BirthDay,@Phone,@Email,@Status,@IsValid )
+

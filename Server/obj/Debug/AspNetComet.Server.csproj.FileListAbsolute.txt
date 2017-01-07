@@ -1,0 +1,13 @@
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\AspNetComet.Server.dll.config
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\AspNetComet.Server.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\AspNetComet.Server.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\AspNetComet.Core.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\ChatData.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\System.Data.SQLite.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\Newtonsoft.Json.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\ChatData.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\AspNetComet.Core.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\Newtonsoft.Json.xml
+C:\Users\smart.huang\Source\Repos\CometServer\Server\obj\Debug\AspNetComet.Server.csprojResolveAssemblyReference.cache
+C:\Users\smart.huang\Source\Repos\CometServer\Server\obj\Debug\AspNetComet.Server.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\obj\Debug\AspNetComet.Server.pdb

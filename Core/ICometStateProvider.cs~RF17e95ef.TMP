@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace MethodWorx.AspNetComet.Core
+{
+    // Coomet 状态记录提供者（适配器模式）
+    public interface ICometStateProvider
+    {
+        // 存储客户端实例 （内存，DB，NOSQL）
+        void InitializeClient(CometClient cometClient);
+
+        
+        // 获取指定客户端的消息队列中消息，只关注消息ID > 上次的消息ID
+        CometMessage[] GetMessages(string clientPrivateToken, long lastMessageId);
+
+        // 给消息排队
+        void SendMessage(string clientPublicToken, string name, object contents);
+        /// <summary>
+        /// Implementation of this method should queue a message for all the clients
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="contents"></param>
+        void SendMessage(string name, object contents);
+        /// <summary>
+        /// Implementation of this method should return a specific comet client
+        /// </summary>
+        /// <param name="clientPrivateToken"></param>
+        /// <returns></returns>
+        CometClient GetCometClient(string clientPrivateToken);
+        /// <summary>
+        /// Implementation of this method should remove a client from the cache
+        /// </summary>
+        /// <param name="clientPrivateToken"></param>
+        void KillIdleCometClient(string clientPrivateToken);
+    }
+}

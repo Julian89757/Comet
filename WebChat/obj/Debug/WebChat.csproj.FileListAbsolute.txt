@@ -1,0 +1,10 @@
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\bin\WebChat.dll.config
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\bin\WebChat.dll
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\bin\WebChat.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\bin\ChatData.dll
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\bin\System.Data.SQLite.dll
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\bin\Newtonsoft.Json.dll
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\bin\ChatData.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\obj\Debug\WebChat.csprojResolveAssemblyReference.cache
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\obj\Debug\WebChat.dll
+C:\Users\smart.huang\Source\Repos\CometServer\WebChat\obj\Debug\WebChat.pdb

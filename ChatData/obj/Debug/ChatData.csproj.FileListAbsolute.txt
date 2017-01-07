@@ -1,0 +1,12 @@
+C:\Users\smart.huang\Source\Repos\WebChat\ChatData\bin\Debug\ChatData.dll
+C:\Users\smart.huang\Source\Repos\WebChat\ChatData\bin\Debug\ChatData.pdb
+C:\Users\smart.huang\Source\Repos\WebChat\ChatData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smart.huang\Source\Repos\WebChat\ChatData\bin\Debug\System.Data.SQLite.dll
+C:\Users\smart.huang\Source\Repos\WebChat\ChatData\obj\Debug\ChatData.dll
+C:\Users\smart.huang\Source\Repos\WebChat\ChatData\obj\Debug\ChatData.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\ChatData\bin\Debug\ChatData.dll
+C:\Users\smart.huang\Source\Repos\CometServer\ChatData\bin\Debug\ChatData.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\ChatData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smart.huang\Source\Repos\CometServer\ChatData\bin\Debug\System.Data.SQLite.dll
+C:\Users\smart.huang\Source\Repos\CometServer\ChatData\obj\Debug\ChatData.dll
+C:\Users\smart.huang\Source\Repos\CometServer\ChatData\obj\Debug\ChatData.pdb

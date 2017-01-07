@@ -1,0 +1,10 @@
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\Server.dll.config
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\Server.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\Server.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\MethodWorx.AspNetComet.Core.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\MethodWorx.AspNetComet.Core.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\smart.huang\Source\Repos\CometServer\Server\obj\Release\Server.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\obj\Release\Server.pdb
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\Newtonsoft.Json.dll
+C:\Users\smart.huang\Source\Repos\CometServer\Server\bin\Newtonsoft.Json.xml
